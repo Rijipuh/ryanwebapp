@@ -23,6 +23,15 @@
   color: #61dafb;
 }
 
+.profile {
+  height: 20px;
+  width: 20px;
+}
+
+body {
+  background-color: DarkCyan;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
